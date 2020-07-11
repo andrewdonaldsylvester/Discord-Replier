@@ -1,4 +1,5 @@
 import discord
+import __future__
 
 TOKEN = input("Token: ") # Prompt the user for the bot token
 
