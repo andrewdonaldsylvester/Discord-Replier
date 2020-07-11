@@ -1,7 +1,5 @@
 import discord
 
-# NjA1OTc2MDAwODQwNTk3NTA1.XwkX1Q.1-jwqZx6xfKW5fOJFWyNg6tcncA
-
 TOKEN = input("Token: ") # Prompt the user for the bot token
 
 reply_dict = {}
