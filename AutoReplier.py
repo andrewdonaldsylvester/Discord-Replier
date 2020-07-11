@@ -1,5 +1,5 @@
 import discord
-import __future__
+from __future__ import async, await
 
 TOKEN = input("Token: ") # Prompt the user for the bot token
 
